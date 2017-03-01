@@ -5,3 +5,4 @@ def hitung (a, b) :
 
 hasil = hitung(1,2)
 print( hasil )
+print("By Isnu")
